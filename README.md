@@ -1,11 +1,11 @@
 # vn2022_m3.5
 
-## folder content:
+#### 1. folder content:
 
-### preprocess: scripts preprocess from raw waveform to response spectra
+preprocess: scripts preprocess from raw waveform to response spectra
 
-### data: 
+data: 
 
-#### stainfo.csv : stations file
+*stainfo.csv : stations file*
 
-#### Sa_table.csv : response spectra
+*Sa_table.csv : response spectra*
