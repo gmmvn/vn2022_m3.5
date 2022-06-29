@@ -4,11 +4,11 @@
 
 preprocess: scripts preprocess from raw waveform to response spectra
 
-*read waveforms *
+*read waveforms*
 
-*remove instrument response *
+*remove instrument response*
 
-*demean, detrend *
+*demean, detrend*
 
 *baseline correction follow https://usgs.github.io/groundmotion-processing/autoapi/gmprocess/waveform_processing/baseline_correction/index.html*
 
